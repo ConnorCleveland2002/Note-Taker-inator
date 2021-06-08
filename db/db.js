@@ -6,4 +6,4 @@ var noteContents = [
     },
 ];
 
-module.exports = noteContents;
+module.exports = db;

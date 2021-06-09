@@ -1,4 +1,4 @@
-var noteContents = [
+var db = [
     {
     "title":"Placeholder Title",
     "text":"Placeholder Text",
